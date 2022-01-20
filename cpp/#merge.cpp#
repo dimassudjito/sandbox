@@ -1,0 +1,42 @@
+#include <iostream>
+using namespace std;
+
+/*
+> Input:
+- nums1: array of int, length m+n, non-decreasing
+- nums2: array of int, length of n, non-decreasing
+- m: # valid int in nums1
+- n: # valid int in nums2
+> Output
+- nums1: modified version
+> process
+- by merging nums1 and nums2
+> assumption:
+- 0 padding is always put at the end
+---
+> example
+- see prompt
+---
+> method 1: by creating new array and merging it manually 
+- time-compelxity: o(2m+n), space-complexity: (2m)
+1. cache nums1 real content to another array num3
+2. iterate nums2 and nums3:
+3. put the smaller number in nums1, give priority to nums3 (arbitrary)
+4. move pointer to array when adding from that array
+*/
+void merge(int nums1[], int m, int nums2[], int n);
+
+int main() {
+  int nums1[] = {1, 2, 3, 0, 0, 0};
+  int nums2[] = {2, 5, 6};
+  int nums1Length = sizeof(nums1)/sizeof(*nums1);
+  int n = sizeof(nums2)/sizeof(*nums2);
+  int m = nums1Length - n;
+  merge(nums1, m, nums2, n);
+  return 0;
+}
+
+void merge(int nums1[], int m, int nums2[], int n) {
+  
+ 
+}

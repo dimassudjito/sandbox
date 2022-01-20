@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33585192-e99f-4966-b09a-75cc074d00c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cPJdWLxOtmjYFBcxHrJNAKkFap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kata" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dimas\Dev\sandbox\kata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dimas\Dev\sandbox\scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.capitalize_first">
+    <configuration name="biggest_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kata/biggest_product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="capitalize_first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kata/capitalize_first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="determinant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kata/determinant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudoku_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kata/sudoku_validator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wave" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kata/wave.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.determinant" />
+      <item itemvalue="Python.sudoku_validator" />
+      <item itemvalue="Python.wave" />
+      <item itemvalue="Python.biggest_product" />
+      <item itemvalue="Python.capitalize_first" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.capitalize_first" />
+        <item itemvalue="Python.biggest_product" />
+        <item itemvalue="Python.sudoku_validator" />
+        <item itemvalue="Python.wave" />
+        <item itemvalue="Python.determinant" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33585192-e99f-4966-b09a-75cc074d00c4" name="Default Changelist" comment="" />
+      <created>1590424382897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590424382897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590770076388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590770076388" />
+    <state x="675" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590864232693">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="675" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1590864232693" />
+    <state width="1281" height="168" key="GridCell.Tab.0.bottom" timestamp="1596082099918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1596082099918" />
+    <state width="690" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590867848166" />
+    <state width="1281" height="168" key="GridCell.Tab.0.center" timestamp="1596082099918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="168" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1596082099918" />
+    <state width="690" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590867848166" />
+    <state width="1281" height="168" key="GridCell.Tab.0.left" timestamp="1596082099918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="168" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1596082099918" />
+    <state width="690" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590867848165" />
+    <state width="1281" height="168" key="GridCell.Tab.0.right" timestamp="1596082099918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="168" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1596082099918" />
+    <state width="690" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590867848166" />
+    <state width="747" height="206" key="GridCell.Tab.1.bottom" timestamp="1590916671754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="747" height="206" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1590916671754" />
+    <state width="690" height="210" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590694317118" />
+    <state width="747" height="206" key="GridCell.Tab.1.center" timestamp="1590916671754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="747" height="206" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1590916671754" />
+    <state width="690" height="210" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590694317118" />
+    <state width="747" height="206" key="GridCell.Tab.1.left" timestamp="1590916671754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="747" height="206" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1590916671754" />
+    <state width="690" height="210" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590694317117" />
+    <state width="747" height="206" key="GridCell.Tab.1.right" timestamp="1590916671754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="747" height="206" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1590916671754" />
+    <state width="690" height="210" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590694317118" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1590770178935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590770178935" />
+    <state x="590" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1596080798717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="934" y="-823" key="com.intellij.ide.util.TipDialog/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1590911706460" />
+    <state x="590" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1596080798717" />
+    <state x="590" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1590855540130" />
+    <state x="567" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590864326665">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="567" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590864326665" />
+  </component>
+</project>
